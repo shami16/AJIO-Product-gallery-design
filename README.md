@@ -1,6 +1,13 @@
 # AJIO
 
 Welcome to AJIO - Your Fashion Destination!
+![AJIO Logo](blob:https://vercel.com/fab977b7-2c16-457e-b69f-bfc5d73bd115)
+
+
+
+## Get Started
+
+Visit [https://ajio-product-gallery-design.vercel.app/) to start shopping now!
 
 
 
@@ -17,11 +24,7 @@ AJIO is where style meets convenience. We bring you the latest fashion trends, h
 - **Easy Returns:** We make returns hassle-free because we care about your satisfaction.
 
 - **Secure Payments:** Your transactions are safe and secure with us.
-
-## Get Started
-
-Visit [) to start shopping now!
-
+  
 ## Contact Us
 
 For any inquiries or support, reach out to our friendly customer service team.
