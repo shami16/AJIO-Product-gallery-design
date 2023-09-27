@@ -2,6 +2,7 @@
 
 Welcome to AJIO - Your Fashion Destination!
 
+![fab977b7-2c16-457e-b69f-bfc5d73bd115](https://github.com/shami16/AJIO-Product-gallery-design/assets/120793091/2cfb48c9-ea76-42b9-86a3-6c7cd1db81ee)
 
 
 
