@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJIO</title>
+    <link rel="stylesheet" href="./stylesheet.css">
+    <link rel="shortcut icon" href="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/57/c2/8d57c283-caad-a86a-dcc1-214653aa07cf/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" >
+    
+</head>
+<body>
+<div class="container">
+    <div class="product">
+        <div class="gallery">
+            <img src="./432 product-img/image1.png" id="productimg">
+            <div class="controls">
+                <span class="btn active" ></span>
+                <span class="btn"></span>
+                <span class="btn"></span>
+            </div>
+        </div>
+        <div class="details">
+            <h1>Causal T shirt</h1>
+            <h2>$16.00</h2>
+            <h3>30% OFF</h3>
+        <p>Wrangler is an American <br>
+             manufacturer of jeans and other  <br>clothing items, particularly workwear.</p>
+             
+             <form >
+                <div class="size-select"></div>
+                <section>
+                <p>Size</p> 
+                <label for="small">
+                    <input  type="" id="small">
+                    <h4>S</h4>
+                </label>
+                <label for="medium">
+                    <input type="" id="medium">
+                    <h4>M</h4>
+                </label>
+                <label for="Large">
+                    <input type="" id="Large">
+                    <h4>L</h4>
+                </label>
+                <label for="x-Large">
+                    <input type="" id="x-Large">
+                    <h4>XL</h4>
+                </label>
+                <label for="xx-Large">
+                    <input type="" id="xx-Large">
+                    <h4>XXL</h4>
+                </label>
+            </section> 
+             </form>
+             <br>
+             <div class="color-select">
+                
+                <p id="pos">Color</p>
+                <label for="red">
+                    <input type="radio" name="color" id="red">
+                    <span class="color-1"></span>
+                </label>
+                <label for="blue">
+                    <input type="radio" name="color" id="blue">
+                    <span class="color-2"></span>
+                </label>
+                <label for="black">
+                    <input type="radio" name="color" id="black">
+                    <span class="color-3"></span>
+                </label>
+                <label for="green">
+                    <input type="radio" name="color" id="green">
+                    <span class="color-4"></span>
+                </label>
+                <div> 
+                    
+                    <h4>Product Details</h4>
+                    <br>
+                    <ul>
+                        <li>Package contains : 1 tshirt</li>
+                        <li>Machine wash cold</li>
+                        <li>60% cotton, 40% polyester</li>
+                        <li>Product code:443004454_white</li>
+                    
+                        <!-- <P>our model waers a Size M</P> -->
+
+                    </ul>
+                </div>
+               
+               
+            </div>
+            <div>
+                <button>BUY NOW</button>
+            </div>
+           
+       
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+  <script>
+    let product = document.getElementById("productimg");
+    let btn = document.getElementsByClassName("btn");
+    btn[0].onclick =function(){
+        product.src="432 product-img/image1.png";
+        for(bt of btn){
+            bt.classList.remove("active");
+        }
+        this.classList.add("active")
+    }
+    btn[1].onclick =function(){
+        product.src="432 product-img/image2.png";
+        for(bt of btn){
+            bt.classList.remove("active");
+        }
+        this.classList.add("active")
+    }
+    btn[2].onclick =function(){
+        product.src="432 product-img/image3.png";
+        for(bt of btn){
+            bt.classList.remove("active");
+        }
+        this.classList.add("active")
+    }
+  </script>
+</body>
+</html>
+
+ 
