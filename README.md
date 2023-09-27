@@ -1,7 +1,7 @@
 # AJIO
 
 Welcome to AJIO - Your Fashion Destination!
-![AJIO Logo](blob:https://vercel.com/fab977b7-2c16-457e-b69f-bfc5d73bd115)
+![AJIO Logo](https://ajio-product-gallery-design.vercel.app/)
 
 
 
