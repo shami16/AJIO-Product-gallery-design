@@ -8,7 +8,7 @@ Welcome to AJIO - Your Fashion Destination!
 
 ## Get Started
 
-Visit [https://ajio-product-gallery-design.vercel.app/) to start shopping now!
+## Visit [https://ajio-product-gallery-design.vercel.app/] to start shopping now!
 
 
 
